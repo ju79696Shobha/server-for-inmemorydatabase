@@ -1,0 +1,5 @@
+[{"id":1,"name":"Phineas","floor":"1st floor","building":"1st building"},
+{"id":2,"name":"Phi","floor":"2nd floor","building":"1st building"},
+{"id":3,"name":"XYZ","floor":"3rd floor","building":"1st building"},
+{"id":4,"name":"ABC","floor":"4th floor","building":"2nd building"},
+{"id":5,"name":"DEF","floor":"5th floor","building":"2nd building"}]
